@@ -6,6 +6,8 @@
 # Private Notes
 Notes.txt
 
+.env
+
 # User-specific files
 *.rsuser
 *.suo

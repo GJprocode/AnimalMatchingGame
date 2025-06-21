@@ -1,8 +1,7 @@
 ﻿
 using Microsoft.Maui.ApplicationModel;
 using Microsoft.Maui.Controls;
-using Microsoft.UI.Xaml.Documents;
-using Windows.System;
+
 
 namespace AnimalMatchingGame;
 
