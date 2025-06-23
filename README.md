@@ -1,7 +1,7 @@
 # AnimalMatchingGame
 ## Sideloading: Published .apk and .msix, for local offline playing, Install and trust certiciate
 ### dotnet publish -f net8.0-android -c Release
-## Android simulator 14.0 - API 34 - for testing, Tool, ANdroid, Android Package Manager 
+## Android simulator 14.0 - API 34 - for testing, Tool, Android, Android Package Manager 
 ## Xamarin.Android runtime still pivotal from Xamarin.form days. 
 ## Signed, keystore.jks created in directory root
 ### keytool -genkey -v -keystore keystore.jks -alias key0 -keyalg RSA -keysize 2048 -validity 10000 (Stored in .ENV and loaded in CLI & rereived in .csproj file.)
